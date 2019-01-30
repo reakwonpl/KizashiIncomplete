@@ -1,0 +1,13 @@
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\bin\Debug\WpfApplication21.exe.config
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\bin\Debug\WpfApplication21.exe
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\bin\Debug\WpfApplication21.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\MainWindow.baml
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\MainWindow.g.cs
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\App.g.cs
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21_MarkupCompile.cache
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.g.resources
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.Properties.Resources.resources
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.exe
+C:\Users\Bartosz\Documents\Visual Studio 2013\Projects\WpfApplication21\WpfApplication21\obj\Debug\WpfApplication21.pdb
